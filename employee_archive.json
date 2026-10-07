@@ -1,0 +1,26 @@
+{
+    "1": {
+        "name": "John Doe",
+        "role": "Team Lead",
+        "salary": 50000.0,
+        "full_time": false
+    },
+    "3": {
+        "name": "Dakota Howard",
+        "role": "Customer Service Representative",
+        "salary": 35000.0,
+        "full_time": false
+    },
+    "5": {
+        "name": "Thomas Brown",
+        "role": "Shift Lead",
+        "salary": 72000.0,
+        "full_time": false
+    },
+    "6": {
+        "name": "Gaara Sand",
+        "role": "Shift Lead",
+        "salary": 72000.0,
+        "full_time": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "2": {
+        "name": "Jane Doe",
+        "role": "Team Lead",
+        "salary": 50000.0,
+        "full_time": false
+    },
+    "4": {
+        "name": "Jackson Brown",
+        "role": "Customer Service Representative",
+        "salary": 35000.0,
+        "full_time": false
+    },
+    "7": {
+        "name": "Green Bean",
+        "role": "Customer Service Representative",
+        "salary": 35000.0,
+        "full_time": true
+    },
+    "8": {
+        "name": "Ann Bee",
+        "role": "Program Manager",
+        "salary": 100000.0,
+        "full_time": true
+    },
+    "9": {
+        "name": "Jack Daniel",
+        "role": "Team Lead",
+        "salary": 50000.0,
+        "full_time": true
+    },
+    "10": {
+        "name": "Jack Harlow",
+        "role": "Team Lead",
+        "salary": 32000.0,
+        "full_time": true
+    }
+}
